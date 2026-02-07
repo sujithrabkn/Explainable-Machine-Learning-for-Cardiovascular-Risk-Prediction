@@ -1,4 +1,4 @@
-# Explainable-Machine-Learning-for-Cardiovascular-Risk-Prediction
+# Explainable Machine Learning for Cardiovascular Risk Prediction
 
 ## Project Overview
 

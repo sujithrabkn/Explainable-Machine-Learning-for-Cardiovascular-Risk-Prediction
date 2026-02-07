@@ -128,13 +128,6 @@ F1-Score
 
 The model performance may vary depending on dataset distribution and input conditions.
 
-## requirements.txt
-flask
-numpy
-pandas
-scikit-learn
-joblib
-
 ## Core Backend Code (app.py)
 
 ```
